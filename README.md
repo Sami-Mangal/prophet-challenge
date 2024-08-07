@@ -57,7 +57,7 @@ To use this notebook:
 1. Clone the repository or download the notebook file.
 2. Install the required libraries.
 3. Open the notebook in Jupyter.
-4.Follow the instructions provided in each section to understand and execute the code.
+4. Follow the instructions provided in each section to understand and execute the code.
 
 # Acknowledgments
 
